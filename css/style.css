@@ -107,10 +107,6 @@ button {
 \*-----------------------------------*/
 
 .index {
-    background-image: url(/assets/img/bg.png);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
     height: 100vh; /* 100% of the viewport height */
     width: 100vw;  /* 100% of the viewport width */
     color: var(--text-white);
